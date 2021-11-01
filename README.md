@@ -7,4 +7,4 @@
 </ul>
 
 
-<h1>https://app.netlify.com/sites/determined-thompson-7336de/overview</h1>
+<h1>https://determined-thompson-7336de.netlify.app/</h1>
