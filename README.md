@@ -1,6 +1,6 @@
 # NejlepsiTym
 <ul>
-Michal Buček
+<ol>Michal Buček</ol>
 Adam Pech
 Michal Owczarzy
 Jakub Markvart
